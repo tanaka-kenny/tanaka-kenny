@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanaka-kenny
-- 👀 I’m interested in software dev, data science and cloud computing 
+- 👀 I’m interested in software dev, 
 - 🌱 I’m currently learning Computer Science and Statistics at North West University, South Africa 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 
 <!---
