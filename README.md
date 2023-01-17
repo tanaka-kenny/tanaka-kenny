@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tanaka-kenny
 - 👀 I’m interested in software dev, 
-- 🌱 I’m currently learning Computer Science and Statistics at North West University, South Africa 
 - 📫 tanakamadondo@gmail.com 
 
 <!---
